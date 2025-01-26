@@ -12,3 +12,4 @@
 ## Useful links
 
 * https://github.com/philipturner/metal-benchmarks
+* https://github.com/LaurentMazare/gemm-metal
