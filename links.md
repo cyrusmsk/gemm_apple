@@ -1,5 +1,8 @@
 # Links
 
+## AlphaTensor
+https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/
+
 ## Another algo
 https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/
 
